@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=3000&pause=1000&color=FFFFFF&background=0E111670&width=1000&lines=Hi+%F0%9F%91%8B%2C+I'm+Berna;I'm+a+Student+and+Aspiring+Developer+from+Portugal+%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=3000&pause=1000&color=FFFFFF&background=0E111670&width=1000&lines=Hi+%F0%9F%91%8B%2C+I'm+Bernardo;I'm+a+Student+and+Aspiring+Developer+from+Portugal+%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB)](https://git.io/typing-svg)
 
 ```typescript
 // Main Tools I Use
@@ -24,7 +24,7 @@ class About extends Me {
 
 - 🎵 I also love music, games and late night drives
 
-- 📫 You can reach me at **bernamartins07@gmail.com** or my [**Linkedin**](https://www.linkedin.com/in/bernardomfm/)
+- 📫 You can reach me at my [**Linkedin**](https://www.linkedin.com/in/bernardomfm/)
 
 ## Stats:
 <div align="center">
