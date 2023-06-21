@@ -4,25 +4,21 @@
 // Main Tools I Use
 class About extends Me { 
   const myTools = {  
-    "ProgramingLanguages" : { "Java", "Python", "Javascript", "Typescript", "C", "C#", "C++" },
-    "OtherLanguages" : { "HTML", "CSS", "Bash", "JSON", "ABAP" },
+    "ProgramingLanguages" : { "Python", "C", "C#", "C++", "Javascript" },
+    "OtherLanguages" : { "HTML", "CSS", "ABAP" },
     "Database" : { "MySQL", "SQLServer" },
     "Editors" : { "VSCode" },
     "Platforms" : { "Windows", "GNU/Linux" },
-    "OtherTools" : { "Git", "Docker" }
+    "OtherTools" : { "Git" }
   };
 }
 ```
 
-- 🎓 I'm a student at IPCA, Braga
-
-- 👨‍💻 I love building projects that explore my interests in my spare time
+- 🎓 I'm a 19yo student living in Braga who's currently studying at IPCA and working as a developer at Deloitte
 
 - 💻 All of my projects are available here at [**github.com/bernam07**](https://github.com/bernam07)
 
-- 💬 Ask me about **Web Development, GNU/Linux, or the latest in tech**
-
-- 🎵 I also love music, games and late night drives
+- 🎵 I love music, games and late night drives
 
 - 📫 You can reach me at my [**Linkedin**](https://www.linkedin.com/in/bernardomfm/)
 
