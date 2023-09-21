@@ -14,7 +14,7 @@ class About extends Me {
 }
 ```
 
-- 🎓 I'm a 19yo student living in Braga, currently studying at IPCA and working as a developer at Deloitte
+- 🎓 I'm a 20yo student living in Braga, currently studying at IPCA and working as a developer at Deloitte
 
 - 💻 All of my projects are available here at [**github.com/bernam07**](https://github.com/bernam07)
 
