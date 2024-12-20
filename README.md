@@ -5,8 +5,6 @@
 class About extends Me { 
   const myTools = {  
     "ProgramingLanguages" : { "Python", "C", "C#", "C++", "Javascript" },
-    "OtherLanguages" : { "HTML", "CSS", "ABAP" },
-    "Database" : { "MySQL", "SQLServer" },
     "Editors" : { "VSCode" },
     "Platforms" : { "Windows", "GNU/Linux" },
     "OtherTools" : { "Git" }
@@ -14,7 +12,7 @@ class About extends Me {
 }
 ```
 
-- 🎓 I'm a 20yo student living in Braga, currently studying at IPCA and working as a developer at Deloitte
+- 🎓 I'm a 21yo student living in Braga, currently studying at IPCA and working at Deloitte
 
 - 💻 All of my projects are available here at [**github.com/bernam07**](https://github.com/bernam07)
 
