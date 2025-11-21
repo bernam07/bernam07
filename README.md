@@ -4,8 +4,8 @@
 // Main Tools I Use
 class About extends Me { 
   const myTools = {  
-    "ProgramingLanguages" : { "Python", "C", "C#", "C++", "Javascript" },
-    "Editors" : { "VSCode" },
+    "ProgramingLanguages" : { "Python", "C", "C#", "C++", "Javascript", "Kotlin" },
+    "Editors" : { "VSCode", "Android Studio" },
     "Platforms" : { "Windows", "GNU/Linux" },
     "OtherTools" : { "Git" }
   };
