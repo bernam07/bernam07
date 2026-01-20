@@ -10,7 +10,7 @@
 
 **I'm a 22-year-old student and aspiring developer passionate about building efficient software.** Currently balancing my studies at **IPCA** with professional experience at **Deloitte**.
 
-[![](https://img.shields.io/badge/LinkedIn-Bernardo_Machado-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/bernardomfm/)
+[![](https://img.shields.io/badge/LinkedIn-Bernardo_Martins-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/bernardomfm/)
 [![](https://img.shields.io/badge/GitHub-bernam07-100000?style=for-the-badge&logo=github)](https://github.com/bernam07)
 
 </div>
