@@ -33,18 +33,7 @@
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=bernam07&show_icons=true&theme=tokyonight&hide_border=true" height="180" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bernam07&layout=compact&theme=tokyonight&hide_border=true" height="180" alt="languages graph"  />
-</div>
-
-<br>
-
-<div align="center">
-
-## 🎧 Vibe Check
+## 🎧 Current song
 
 <p align="center">
   <a href="https://spotify-github-profile.kittinanx.com/api/view?uid=31jfupdpdzioytecqlz4wzyxhyia&redirect=true">
