@@ -4,7 +4,7 @@
 
 ### Student @ IPCA | Developer @ Deloitte
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=25&pause=1000&color=F7F7F7&center=true&vCenter=true&width=600&lines=Software+Developer;Based+in+Braga%2C+Portugal+%F0%9F%87%B5%F0%9F%87%B9;Music+Lover+%26+Night+Driver)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=25&pause=1000&color=F7F7F7&center=true&vCenter=true&width=600&lines=Software+Developer;Based+in+Braga%2C+Portugal)](https://git.io/typing-svg)
 
 ---
 
