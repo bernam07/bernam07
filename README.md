@@ -15,7 +15,7 @@
 
 </div>
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 ### Languages
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -23,6 +23,8 @@
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?style=for-the-badge&logo=kotlin&logoColor=white)
 
 ### Tools & Platforms
@@ -33,12 +35,10 @@
 
 ---
 
-## 🎧 Current song
+## Current song
 
 <p align="center">
-  <a href="https://spotify-github-profile.kittinanx.com/api/view?uid=31jfupdpdzioytecqlz4wzyxhyia&redirect=true">
-    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31jfupdpdzioytecqlz4wzyxhyia&cover_image=true&theme=spotify-embed&show_offline=false&background_color=121212&interchange=false&profanity=false&mode=dark&bar_color=53b14f&bar_color_cover=false">
+  <a href="https://music-profile.rayriffy.com">
+    <img src="https://music-profile.rayriffy.com/theme/dark.svg?uid=000280.e8baf82052f3470c8694a482b7b11b93.0907" alt="Apple Music GitHub profile">
   </a>
 </p>
-
-</div>
