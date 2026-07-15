@@ -32,13 +32,3 @@
 ![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white)
 ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-
----
-
-## Current song
-
-<p align="center">
-  <a href="https://music-profile.rayriffy.com">
-    <img src="https://music-profile.rayriffy.com/theme/dark.svg?uid=000280.e8baf82052f3470c8694a482b7b11b93.0907" alt="Apple Music GitHub profile">
-  </a>
-</p>
