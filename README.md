@@ -14,17 +14,17 @@
 
 ---
 
-## 🧑‍💻 About Me
+## About Me
 
-- 🎓 I'm a **22-year-old student** at **IPCA**, building professional experience as a **Developer at Deloitte**.
-- 💼 At work I build enterprise solutions with **OutSystems**, **.NET** and **SQL Server**.
-- 💜 On my own time I love writing **React + TypeScript** and getting my hands dirty with **C++**.
-- 🚀 Passionate about building **efficient, well-structured software** — and always learning something new.
-- 📍 Based in **Braga, Portugal**.
+- I'm a **22-year-old student** at **IPCA**, building professional experience as a **Developer at Deloitte**.
+- At work I build enterprise solutions with **OutSystems**, **.NET** and **SQL Server**.
+- On my own time I love writing **React + TypeScript** and getting my hands dirty with **C++**.
+- Passionate about building **efficient, well-structured software** — and always learning something new.
+- Based in **Braga, Portugal**.
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 ### Languages
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
@@ -54,12 +54,9 @@
 
 ---
 
-## 📊 GitHub Stats
+## GitHub Activity
 
 <div align="center">
-
-![Bernardo's GitHub stats](https://github-readme-stats.vercel.app/api?username=bernam07&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&cache_seconds=86400)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=bernam07&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&cache_seconds=86400)
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=bernam07&theme=tokyonight&hide_border=true)
 
@@ -67,6 +64,6 @@
 
 <div align="center">
 
-<sub>Thanks for stopping by! Feel free to reach out on <a href="https://www.linkedin.com/in/bernardomfm/">LinkedIn</a>. 👋</sub>
+<sub>Thanks for stopping by — feel free to reach out on <a href="https://www.linkedin.com/in/bernardomfm/">LinkedIn</a>.</sub>
 
 </div>
