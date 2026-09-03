@@ -2,7 +2,7 @@
 
 # Hi there, I'm Bernardo! 👋
 
-### Student @ IPCA &nbsp;·&nbsp; Developer @ Deloitte
+### Student @ UPCA &nbsp;·&nbsp; Programmer @ Deloitte
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&pause=1000&color=6C8EBF&center=true&vCenter=true&width=600&lines=Software+Developer;Based+in+Braga%2C+Portugal;Always+learning+something+new)](https://github.com/bernam07)
 
@@ -16,7 +16,7 @@
 
 ## About Me
 
-- I'm a **22-year-old student** at **IPCA**, building professional experience as a **Developer at Deloitte**.
+- I'm a **22-year-old student** at **UPCA**, building professional experience as a **Programmer at Deloitte**.
 - At work I build enterprise solutions with **OutSystems**, **.NET** and **SQL Server**.
 - On my own time I love writing **React + TypeScript** and getting my hands dirty with **C++**.
 - Passionate about building **efficient, well-structured software** — and always learning something new.
