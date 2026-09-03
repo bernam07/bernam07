@@ -16,7 +16,7 @@
 
 ## About Me
 
-- I'm a **22-year-old student** at **UPCA**, building professional experience as a **Programmer at Deloitte**.
+- I'm a **23-year-old student** at **UPCA**, building professional experience as a **Programmer at Deloitte**.
 - At work I build enterprise solutions with **OutSystems**, **.NET** and **SQL Server**.
 - On my own time I love writing **React + TypeScript** and getting my hands dirty with **C++**.
 - Passionate about building **efficient, well-structured software** — and always learning something new.
