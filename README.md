@@ -29,7 +29,6 @@
 
 | Project | Description | Stack | Links |
 | :--- | :--- | :--- | :--- |
-| **[Strata](https://github.com/bernam07/strata)** | Production-grade wealth & portfolio intelligence operating system uniting equities, crypto, alternative assets, and automated cashflows into a unified net-worth view. | React 19 &middot; TypeScript &middot; Supabase &middot; Tailwind v4 &middot; PostgreSQL | [Repository](https://github.com/bernam07/strata) |
 | **[Episodic](https://github.com/bernam07/episodic)** | Letterboxd for television. Mobile-first installable PWA for tracking series, episodes, season ratings, diary entries, and friend activity with TMDB integration. | React 19 &middot; TypeScript &middot; Supabase &middot; TanStack Query &middot; Tailwind | [Repository](https://github.com/bernam07/episodic) |
 | **[Norma](https://github.com/bernam07/norma)** | Frictionless daily note capture scratchpad with a companion Chromium extension and automated morning briefing digests delivered to your inbox. | Next.js 14 &middot; TypeScript &middot; PostgreSQL &middot; Tailwind &middot; Resend | [Repository](https://github.com/bernam07/norma) |
 | **[Eclipse Player](https://github.com/bernam07/eclipse-player)** | Minimalist standalone desktop audio player with dynamic vinyl simulation and real-time audio visualizer. | Electron &middot; TypeScript &middot; Vite &middot; Web Audio API | [Repository](https://github.com/bernam07/eclipse-player) |
